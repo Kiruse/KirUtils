@@ -1,7 +1,7 @@
 name = "KirUtils"
 uuid = "4aaedbac-569a-4ece-bda1-8be3b981b3e2"
 authors = ["kiruse <26940742+Kiruse@users.noreply.github.com>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
