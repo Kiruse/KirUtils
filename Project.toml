@@ -1,0 +1,4 @@
+name = "KirUtils"
+uuid = "4aaedbac-569a-4ece-bda1-8be3b981b3e2"
+authors = ["kiruse <26940742+Kiruse@users.noreply.github.com>"]
+version = "0.1.0"
